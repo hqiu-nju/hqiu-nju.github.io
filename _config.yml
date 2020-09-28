@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Hao Qiu"
   avatar           : "profile.png"
-  bio              : "Bio here"
-  location         : "Location"
+  bio              : "PhD Student, Radio Astronomy"
+  location         : "Sydney, Austalia"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=XPVwEr4AAAAJ&hl=en"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/hqiu-nju/"
+  github           : "hqiu-nju"
   google_plus      :
   keybase          :
   instagram        :
