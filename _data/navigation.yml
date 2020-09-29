@@ -10,4 +10,7 @@ main:
     
   - title: "CV"
     url: /cv/
-    
+  
+  
+  - title: "Blog posts"
+  url: /posts/
