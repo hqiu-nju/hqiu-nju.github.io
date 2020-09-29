@@ -19,7 +19,7 @@ Education
 
 Publications
 ======
-  <ul>{% See my publications here on%}</ul><a href="https://ui.adsabs.harvard.edu/public-libraries/4SDNTwFjT2SpYnTwWRyBog">ADS</a>
+Here is a link to my research papers on <a href="https://ui.adsabs.harvard.edu/public-libraries/4SDNTwFjT2SpYnTwWRyBog">ADS</a>
 
 Talks
 ======
