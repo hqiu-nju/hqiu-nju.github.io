@@ -19,7 +19,7 @@ Education
 
 Publications
 ======
-  <ul>{% See my publications here %}</ul><a>{% https://ui.adsabs.harvard.edu/public-libraries/4SDNTwFjT2SpYnTwWRyBog %}<a>
+  <ul>{% See my publications here %}</ul><a>{% https://ui.adsabs.harvard.edu/public-libraries/4SDNTwFjT2SpYnTwWRyBog %}</a>
 
 Talks
 ======
