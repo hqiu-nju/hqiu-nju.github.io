@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi, I'm Harry."
+title: "Harry Qiu 邱昊"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
