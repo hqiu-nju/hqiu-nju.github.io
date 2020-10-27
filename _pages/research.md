@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-My research focuses on radio transients, specifically Fast Radio Bursts. I have been lucky enough to be part of the CRAFT project which uses ASKAP to search for Fast Radio Bursts. Our team has made various achivements and discoveries, including the first real-time localisation of a single FRB event.
+My research focuses on radio transients, specifically Fast Radio Bursts. I have been lucky enough to be part of the CRAFT project which uses ASKAP to search for Fast Radio Bursts. Our team has made various achievements and discoveries, including the first real-time localisation of a single FRB event.
 
 # CRAFT-GP: A 10-hour Galactic Plane Single Pulse Survey
 
