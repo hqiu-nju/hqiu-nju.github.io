@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Harry Qiu 邱昊"
+title: "Hao Qiu 邱昊"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student studying radio astronomy at the University of Sydney. My supervisor is Prof. Tara Murphy.
+Hi I'm Harry, I'm a PhD student studying radio astronomy at the University of Sydney. My supervisor is Prof. Tara Murphy.
 
 Fast Radio Bursts
 ======
