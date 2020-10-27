@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. School of Astronomy and Space Science, Nanjing University, 2013 - 2017
+* B.S, School of Astronomy and Space Science, Nanjing University, 2013 - 2017
   * Thesis Title: Searching for X-ray Transients in the 3XMM Serendipitous Source Catalogue
   * Supervisor: Dr. Ping Zhou (Now Veni Fellow at the Anton Pannekeok Institute, University of Amsterdam)
-* Ph.D Sydney Institute for Astronomy, University of Sydney and Australia Telescope National Facility (2017 - expected 2020)
+* Ph.D, Sydney Institute for Astronomy, University of Sydney, 2017 - 2020 (expected)
   * Thesis Title: Detecting Fast Radio Bursts with the Australian Square Kilometre Array Pathfinder
   * Supervisor: Prof. Tara Murphy (USyd), Dr. Keith Bannister (ATNF) and Prof. Ryan Shannon (ATNF/Swinburne)
 
