@@ -15,7 +15,7 @@ You can check out my thesis for a brief summary of some of the performances by F
 
 # CRAFT-GP: A 10-hour Galactic Plane Single Pulse Survey
 
-This is a single pulse search using eight ASKAP antennas as single dishes to provide a rapid 10-hour observation covering the entire southern Galactic plane between |b|<7 degrees. During this survey, we detected one FRB 180430 in the anti-Galactic-centre direction and a collection of single pulses from several radio pulsars.
+This is a single pulse search using eight ASKAP antennas as single dishes to provide a rapid 10-hour observation covering the entire southern Galactic plane between b<±7 degrees. During this survey, we detected one FRB 180430 in the anti-Galactic-centre direction and a collection of single pulses from several radio pulsars.
 
 The fun part of the observation was utilising the ASKAP Phased Array Feeds to tile the survey and also adjusting the pre axis roll of the dishes of the telescope.
 You can see the beautiful "rainbow road" in this figure below.
