@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Hao Qiu"
   avatar           : "profile.png"
-  bio              : "PhD Student, Radio Astronomy"
-  location         : "Sydney, Austalia"
+  bio              : "Radio Astronomer, SKA Observatory"
+  location         : "Manchester/Jodrell Bank"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=XPVwEr4AAAAJ&hl=en"
-  email            :
+  email            : "h.qiu@skatelescope.org"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
