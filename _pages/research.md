@@ -9,8 +9,9 @@ author_profile: true
 My research focuses on radio transients, specifically Fast Radio Bursts. I have been lucky enough to be part of the CRAFT project which uses ASKAP to search for Fast Radio Bursts. Our team has made various achievements and discoveries, including the first real-time localisation of a single FRB event.
 
 ## Transient search software
-At the start of my PhD I conducted a series of FRB injection tests to assess the performance of the CRAFT FRB pipeline. 
+At the start of my PhD I conducted a series of FRB injection tests to assess and improve the performance of the CRAFT FRB pipeline. 
 The core software of the pipeline is the fast dedispersion trial code FREDDA, an implementation of the FDMT algorithm written in CUDA.
+FREDDA has been a very successful pipeline, detecting more than 30 FRBs in the past four years.
 You can check out my thesis for a brief summary of some of the performances by FREDDA.
 
 # CRAFT-GP: A 10-hour Galactic Plane Single Pulse Survey
