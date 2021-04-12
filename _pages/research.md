@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-My research focuses on radio transients, specifically Fast Radio Bursts. I have been lucky enough to be part of the CRAFT project which uses ASKAP to search for Fast Radio Bursts. Our team has made various achievements and discoveries, including the first real-time localisation of a single FRB event.
+My research focuses on radio transients, specifically Fast Radio Bursts. I have been lucky enough to be part of the CRAFT project since the early times of the project. CRAFT uses ASKAP to search and localise FRBs. Our team has made various achievements and discoveries, including the first real-time localisation of a single FRB event.
 
 ## Transient search software
 At the start of my PhD I conducted a series of FRB injection tests to assess and improve the performance of the CRAFT FRB pipeline. 
