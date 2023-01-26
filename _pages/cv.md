@@ -14,6 +14,7 @@ Employment
   * Postdoctoral position in Fast Radio Burst science  
   * Mentor: Prof. Evan Keane, Trinity College Dublin
   * SKAO Line Manager: Dr. Jeff Wagg and Dr Tyler Bourke
+
 Education
 ======
 * B.S, School of Astronomy and Space Science, Nanjing University, 2013 - 2017
