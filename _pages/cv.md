@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+
 Employment
 ======
 * Postdoctoral Research Fellow, SKAO, 2020-2024
