@@ -12,7 +12,7 @@ My research focuses on radio transients, specifically Fast Radio Bursts. I have 
 At the start of my PhD I conducted a series of FRB injection tests to assess and improve the performance of the CRAFT FRB pipeline. 
 The core software is a GPU based fast dedispersion searching pipeline called FREDDA, an implementation of the [FDMT](https://ui.adsabs.harvard.edu/abs/2017ApJ...835...11Z/abstract) algorithm written in CUDA.
 FREDDA has been a very successful pipeline, contributing to the discovery of more than 50 FRBs by ASKAP between 2017-2021 and [the first localisation of a non-repeating FRB](https://ui.adsabs.harvard.edu/abs/2019Sci...365..565B/abstract)
-You can check out this paper for the systematic performance of FREDDA and HEIMDALL, two well known pipelines.
+You can check out [this paper](https://ui.adsabs.harvard.edu/abs/2023MNRAS.523.5109Q/abstract) for the systematic performance of FREDDA and HEIMDALL, two well known pipelines.
 
 ## CRAFT-GP: A 10-hour Galactic Plane Single Pulse Survey
 
