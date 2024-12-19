@@ -10,6 +10,9 @@ redirect_from:
 
 Employment
 ======
+* Junior Scientist, SKAO, 2024- Present
+  * Radio Spectrum Scientist, Spectrum Management
+  * Working member of SatHub at the IAU Centre for the Protection of the Dark and Quiet Sky from Satellite Constellation Interference (IAU-CPS)
 * Postdoctoral Research Fellow, SKAO, 2020-2024
   * Postdoctoral position in Fast Radio Burst science  
   * Mentor: Prof. Evan Keane, Trinity College Dublin
