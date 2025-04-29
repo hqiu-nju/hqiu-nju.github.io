@@ -83,11 +83,11 @@ author:
   name             : "Hao Qiu"
   avatar           : "profile.jpg"
   bio              : "Radio Astronomer, SKA Observatory"
-  location         : "Manchester/Jodrell Bank"
+  location         : "Perth, Australia"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=XPVwEr4AAAAJ&hl=en"
-  email            : "h.qiu@skatelescope.org"
+  email            :  #"old email h.qiu@skatelescope.org"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"qiuhao_astro"
+  twitter          : #
   vine             :
   weibo            :
   xing             :
