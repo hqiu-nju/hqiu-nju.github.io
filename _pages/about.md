@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi I'm Harry, I'm the radio spectrum scientist at the SKA Observatory Spectrum Management Group.
+Hi I'm Harry, I'm the radio spectrum scientist at SKAO. I am moving to Perth as an operation scientist for SKA mid 2025.
 
 Spectrum, Satellites and Space Situation Awareness
 ======
@@ -27,3 +27,5 @@ Check out more about my research [here](https://hqiu-nju.github.io/research/)
 Australian? Chinese?
 ======
 I spent my early childhood in Adelaide, South Australia before moving back to Nanjing, China with my parents where I completed high school and my undergraduate education. This somewhat reverse immigrant experience has made me a fluent billingual speaker. I am lucky to call both countries home and I hope to assist in building deeper ties and friendships between the two countries.
+
+If you want to call me my Chinese name, the order is surname first: 邱(qiū)昊(hào). Qiu is pronounced Chi-iu in a flat tone and Hao is pronounced H-oh with a drop/fourth tone.
