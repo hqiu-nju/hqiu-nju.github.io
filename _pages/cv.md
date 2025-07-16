@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Brief CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,12 +8,12 @@ redirect_from:
 ---
 {% include base_path %}
 
-Employment
+Employment and Experience
 ======
+* SKA-Low Operations Scientist, SKAO, 2025-Present
+* Radio Spectrum Scientist, SKAO, 2024-2025
 * Postdoctoral Research Fellow, SKAO, 2020-2024
-  * Postdoctoral position in Fast Radio Burst science  
-  * Mentor: Prof. Evan Keane, Trinity College Dublin
-  * SKAO Line Manager: Dr. Jeff Wagg and Dr Tyler Bourke
+* Research Exchange Program, University of Sydney, 2016
 
 Education
 ======
@@ -28,12 +28,6 @@ Awards
 ======
 * 2020 Newcomb-Cleveland Prize: <a href="https://www.youtube.com/watch?v=0t0KoVhqz3Y">"A single fast radio burst localized to a massive galaxy at cosmological distance"</a> <a href="https://www.science.org/doi/10.1126/science.aaw5903"> Bannister et al. 2019 </a>
 * Best Department Graduate Thesis and University 2nd Prize Graduate Thesis, School of Astronomy and Space Science, Nanjing University, 2017
-
-Professional Services and Experience
-======
-* Organiser: Sci-Ops Astro Research Meetings at SKA Observatory
-* Journal Referee: Monthly Notices for the Royal Astronomical Society (MNRAS), 2020 - present
-* Seminar Student Coordinator: Organising the weekly seminars at SIfA, 2019
 
 
 Publications
