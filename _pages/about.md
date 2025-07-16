@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi I'm Harry, I'm the radio spectrum scientist at SKAO. I am moving to Perth as an operation scientist for SKA mid 2025.
+Hi I'm Harry Qiu, I'm an SKA-Low Operations Scientist at the SKA-Low Science Operations Centre in Perth, Australia.
 
 Spectrum, Satellites and Space Situation Awareness
 ======
