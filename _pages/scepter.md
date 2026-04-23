@@ -2,8 +2,5 @@
 title: "SCEPTER"
 permalink: /scepter/
 author_profile: false
+redirect_to: https://github.com/hqiu-nju/scepter#readme
 ---
-
-SCEPTER is a project for SKA operations to better understand and mitigate the impact of satellite constellations.
-
-This page serves as the stable SCEPTER landing page for this site.
