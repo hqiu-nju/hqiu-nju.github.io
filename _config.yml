@@ -10,10 +10,11 @@ locale                   : "en-US"
 title                    : "Hao Qiu"
 title_separator          : "-"
 name                     : &name "Harry Qiu"
-description              : &description "personal description"
+description              : &description "Hao (Harry) Qiu — radio astronomer and SKA-Low Operations Scientist in Perth, researching transients and satellite interference."
 url                      : https://hqiu-nju.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hqiu-nju/hqiu-nju.github.io"
+scepter_url              : "https://gitlab.com/ska-telescope/ska-scepter"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -123,6 +124,31 @@ include:
   - _pages
   - files
 exclude:
+  # AcademicPages demonstration content; retained in source for reference.
+  - _posts
+  - _drafts
+  - _talks
+  - _teaching
+  - _portfolio
+  - _pages/archive-layout-with-content.md
+  - _pages/category-archive.html
+  - _pages/collection-archive.html
+  - _pages/markdown.md
+  - _pages/non-menu-page.md
+  - _pages/page-archive.html
+  - _pages/portfolio.html
+  - _pages/tag-archive.html
+  - _pages/talkmap.html
+  - _pages/talks.html
+  - _pages/teaching.html
+  - _pages/terms.md
+  - markdown_generator
+  - talkmap
+  - talkmap.py
+  - talkmap.ipynb
+  - files/paper1.pdf
+  - files/paper2.pdf
+  - files/paper3.pdf
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
@@ -255,7 +281,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: Oceania/Sydney # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Australia/Perth
 
 
 # Plugins

@@ -1,19 +1,9 @@
 ---
-layout: archive
+layout: academic
+title: Beyond the telescope
 permalink: /year-archive/
-title: "Misc"
-author_profile: true
 redirect_from:
   - /wordpress/blog-posts/
 ---
 
-{% include base_path %}
-{% capture written_year %}'None'{% endcapture %}
-{% for post in site.posts %}
-  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-  {% if year != written_year %}
-    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
-    {% capture written_year %}{{ year }}{% endcapture %}
-  {% endif %}
-  {% include archive-single.html %}
-{% endfor %}
+<div class="content-wrap page-content"><header class="page-heading"><p class="eyebrow">Beyond the telescope</p><h1>Two places. A shared sky.</h1></header><div class="prose"><p>I spent my early childhood in Adelaide before moving with my parents to Nanjing, where I completed high school and my undergraduate education. I’m a fluent bilingual speaker and lucky to call both Australia and China home.</p><p>I hope to help build deeper ties and friendships between the two countries. My Chinese name is <span lang="zh">邱昊</span> — Qiu (qiū), the family name, comes first, followed by Hao (hào). You can also call me Harry.</p><a class="text-link" href="{{ '/' | relative_url }}">Back to the homepage <span aria-hidden="true">→</span></a></div></div>

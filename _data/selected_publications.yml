@@ -1,0 +1,51 @@
+# Selected papers already linked from the original research page.
+# Metadata checked against the publisher pages and author-submitted arXiv records.
+- title: "Systematic performance of the ASKAP fast radio burst search algorithm"
+  authors: "H. Qiu, E. F. Keane, K. W. Bannister, C. W. James & R. M. Shannon"
+  year: 2023
+  venue: "MNRAS · 523, 5109–5119"
+  topic: frb
+  first_author: true
+  href: "https://ui.adsabs.harvard.edu/abs/2023MNRAS.523.5109Q/abstract"
+  source: "https://academic.oup.com/mnras/article/523/4/5109/7199184"
+  summary: "Simulated radio pulses reveal how FREDDA and HEIMDALL search efficiency shapes the completeness of fast radio burst surveys."
+
+- title: "High time resolution and polarization properties of ASKAP-localized fast radio bursts"
+  authors: "C. K. Day, A. T. Deller, R. M. Shannon, H. Qiu et al."
+  year: 2020
+  venue: "MNRAS · 497, 3335–3350"
+  topic: frb
+  first_author: false
+  href: "https://ui.adsabs.harvard.edu/abs/2020MNRAS.497.3335D/abstract"
+  source: "https://academic.oup.com/mnras/article/497/3/3335/5875931"
+  summary: "A study of burst structure, polarization and scattering in localized ASKAP FRBs, connecting their signals to the environments they travel through."
+
+- title: "A survey of the Galactic plane for dispersed radio pulses with the Australian Square Kilometre Array Pathfinder"
+  authors: "H. Qiu, K. W. Bannister, R. M. Shannon, T. Murphy et al."
+  year: 2019
+  venue: "MNRAS · 486, 166–174"
+  topic: frb
+  first_author: true
+  href: "https://ui.adsabs.harvard.edu/abs/2019MNRAS.486..166Q/abstract"
+  source: "https://researchbank.swinburne.edu.au/file/ec8238cf-4d48-47d6-9e17-d089dce6e976/1/2019-qiu-survey_galactic_plane.pdf"
+  summary: "The CRAFT Galactic-plane survey detected FRB 180430 and single pulses from radio pulsars using ASKAP's wide field of view."
+
+- title: "A single fast radio burst localized to a massive galaxy at cosmological distance"
+  authors: "K. W. Bannister, A. T. Deller, C. Phillips et al. (including H. Qiu)"
+  year: 2019
+  venue: "Science · 365, 565–570"
+  topic: frb
+  first_author: false
+  href: "https://ui.adsabs.harvard.edu/abs/2019Sci...365..565B/abstract"
+  source: "https://arxiv.org/abs/1906.11476"
+  summary: "The localization of FRB 180924 to its host galaxy established a way to connect a single burst with its extragalactic origin."
+
+- title: "3XMM J181923.7–170616: An X-Ray Binary with a 408 s Pulsar"
+  authors: "H. Qiu, P. Zhou, W. Yu, X. Li & X. Xu"
+  year: 2017
+  venue: "The Astrophysical Journal · 847, 44"
+  topic: xray
+  first_author: true
+  href: "https://ui.adsabs.harvard.edu/abs/2017ApJ...847...44Q/abstract"
+  source: "https://arxiv.org/abs/1709.07562"
+  summary: "XMM-Newton and Swift observations characterize a slowly rotating X-ray pulsar and support a symbiotic X-ray binary interpretation."
