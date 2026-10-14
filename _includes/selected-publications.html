@@ -1,0 +1,17 @@
+{% assign publication_limit = include.limit | default: site.data.selected_publications.size %}
+<div class="publication-list">
+  {% for publication in site.data.selected_publications limit: publication_limit %}
+  <article class="publication-row" data-publication-topic="{{ publication.topic }}">
+    <div class="publication-year">{{ publication.year }}</div>
+    <div class="publication-detail">
+      <div class="publication-meta">
+        <span>{{ publication.venue | escape }}</span>
+        {% if publication.first_author %}<span class="publication-tag">First author</span>{% endif %}
+      </div>
+      <h3><a href="{{ publication.href }}" target="_blank" rel="noopener noreferrer">{{ publication.title | escape }} <span aria-hidden="true">↗</span></a></h3>
+      <p class="publication-authors">{{ publication.authors | escape }}</p>
+      {% if publication.summary %}<p class="publication-summary">{{ publication.summary | escape }}</p>{% endif %}
+    </div>
+  </article>
+  {% endfor %}
+</div>
