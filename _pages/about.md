@@ -13,8 +13,8 @@ redirect_from:
   <section class="hero" aria-labelledby="intro-title">
     <div class="hero-copy">
       <p class="eyebrow">Radio astronomer · SKA Observatory</p>
-      <h1 id="intro-title">Hi, I’m Harry.<br>Looking for the<br><em>unexpected.</em></h1>
-      <p class="hero-intro">I’m <strong>Hao (Harry) Qiu</strong>, an SKA-Low Operations Scientist in Perth, Australia. I study a changing radio sky — from fast radio bursts to the signals that shape how we observe our universe.</p>
+      <h1 id="intro-title">The dynamic<br>radio sky.</h1>
+      <p class="hero-intro">Hi, I’m <strong>Hao (Harry) Qiu</strong>, an SKA-Low Operations Scientist in Perth, Australia. I study a changing radio sky — from fast radio bursts to the signals that shape how we observe our universe.</p>
       <div class="hero-actions"><a class="button" href="{{ '/research/' | relative_url }}">Explore my research <span aria-hidden="true">↗</span></a><a class="text-link" href="{{ '/publications/' | relative_url }}">Selected publications <span aria-hidden="true">→</span></a></div>
     </div>
     <figure class="hero-portrait">
